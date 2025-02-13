@@ -1,0 +1,1 @@
+This is a simple python script to download newspapers as complete pdfs from the Library of Congress. The script will prompt for the news paper url and date that the newspaper was published. An example, properly formatted, url from the Library of Congress would be https://chroniclingamerica.loc.gov/lccn/sn83045462/.
